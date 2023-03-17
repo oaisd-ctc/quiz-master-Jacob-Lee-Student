@@ -12,26 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 613dbc627354e7b43baab8d8e2d6c712, type: 3}
   m_Name: Question 3
   m_EditorClassIdentifier: 
-  question: 'What was the most common method workers used to confront business owners
+  question: What was the most common method workers used to confront business owners
     and managers during the late 19th century?
-
-
-    They formed labor unions and
-    called for strikes.
-
-
-
-    They primarily conducted assassinations and organized
-    armed rebellions.
-
-
-
-    They frequently bribed public officials and committed
-    election fraud.
-
-
-
-    They repeatedly occupied government offices and created
-    communist enclaves.
-
-'
+  answers:
+  - They formed labor unions and called for strikes.
+  - They primarily conducted assassinations and organized armed rebellions.
+  - They frequently bribed public officials and committed election fraud.
+  - 'They repeatedly occupied government offices and created communist enclaves. '
+  correctAnswerIndex: 0
